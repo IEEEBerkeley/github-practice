@@ -6,5 +6,6 @@ Please follow the directions [here](https://wiki.berkie.ee/v/techops/getting-sta
 
 # List of Contributers
 Add your name here:
+Bill Lee
 
 * Started by Ryan Ma (Spring 2024)
