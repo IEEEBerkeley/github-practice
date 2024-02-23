@@ -8,3 +8,4 @@ Please follow the directions [here](https://wiki.berkie.ee/v/techops/getting-sta
 Add your name here:
 
 * Started by Ryan Ma (Spring 2024)
+* Jansen was here :)
