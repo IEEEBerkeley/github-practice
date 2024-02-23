@@ -6,5 +6,5 @@ Please follow the directions [here](https://wiki.berkie.ee/v/techops/getting-sta
 
 # List of Contributers
 Add your name here:
-
+    Patrick O'Connor
 * Started by Ryan Ma (Spring 2024)
